@@ -19,7 +19,7 @@ const defaultOptions = {
     //expires: new Date('2017-02-15')  // cookie失效时间
 };
 
-module.exports = function (options) {
+module.exports = function (options, app) {
     options = options ? lib.extend(defaultOptions, options, true) : defaultOptions;
     return function (ctx, next) {
         /**
