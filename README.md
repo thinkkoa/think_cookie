@@ -4,7 +4,7 @@
 [![npm version](https://badge.fury.io/js/think_cookie.svg)](https://badge.fury.io/js/think_cookie)
 [![Dependency Status](https://david-dm.org/thinkkoa/think_cookie.svg)](https://david-dm.org/thinkkoa/think_cookie)
 
-Cookie for ThinkKoa.
+Middleware Cookie for ThinkKoa.
 
 # 安装
 -----
