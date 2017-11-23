@@ -1,6 +1,8 @@
 # 介绍
 -----
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thinkkoa/think_cookie.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/think_cookie.svg)](https://badge.fury.io/js/think_cookie)
 [![Dependency Status](https://david-dm.org/thinkkoa/think_cookie.svg)](https://david-dm.org/thinkkoa/think_cookie)
 
