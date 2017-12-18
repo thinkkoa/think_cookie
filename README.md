@@ -16,7 +16,10 @@ npm i think_cookie
 # 使用
 -----
 
-1、cookie中间件为thinkkoa内置中间件,无需在项目中创建引用。该中间件默认开启
+1、项目中增加中间件 middleware/cookie.js
+```js
+module.exports = require('think_cookie');
+```
 
 2、项目中间件配置 config/middleware.js:
 ```
